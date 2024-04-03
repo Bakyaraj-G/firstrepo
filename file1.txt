@@ -1,3 +1,4 @@
 hello bakyaraj welcome to the git class
 This is advance github class
+i have added log user name and mail id
 
